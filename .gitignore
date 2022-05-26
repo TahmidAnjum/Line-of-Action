@@ -1,1 +1,3 @@
 /experimental
+.vscode
+/package/__pycache__
